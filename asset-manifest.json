@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/samiduara/Project-4-assesment/static/css/main.7ada43a3.chunk.css",
+    "main.js": "/samiduara/Project-4-assesment/static/js/main.80412458.chunk.js",
+    "main.js.map": "/samiduara/Project-4-assesment/static/js/main.80412458.chunk.js.map",
+    "runtime-main.js": "/samiduara/Project-4-assesment/static/js/runtime-main.5735614b.js",
+    "runtime-main.js.map": "/samiduara/Project-4-assesment/static/js/runtime-main.5735614b.js.map",
+    "static/js/2.6446d4ee.chunk.js": "/samiduara/Project-4-assesment/static/js/2.6446d4ee.chunk.js",
+    "static/js/2.6446d4ee.chunk.js.map": "/samiduara/Project-4-assesment/static/js/2.6446d4ee.chunk.js.map",
+    "index.html": "/samiduara/Project-4-assesment/index.html",
+    "precache-manifest.54dbd7f30b3c695d412d840cb6d9b60c.js": "/samiduara/Project-4-assesment/precache-manifest.54dbd7f30b3c695d412d840cb6d9b60c.js",
+    "service-worker.js": "/samiduara/Project-4-assesment/service-worker.js",
+    "static/css/main.7ada43a3.chunk.css.map": "/samiduara/Project-4-assesment/static/css/main.7ada43a3.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5735614b.js",
+    "static/js/2.6446d4ee.chunk.js",
+    "static/css/main.7ada43a3.chunk.css",
+    "static/js/main.80412458.chunk.js"
+  ]
+}
