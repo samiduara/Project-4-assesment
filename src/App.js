@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import './App.css';
 import CircleSelector from './CircleSelector/CircleSelector';
-
+import Circles from './Circles/Circles';
 
 class App extends Component {
   state = { 
@@ -23,7 +23,10 @@ class App extends Component {
             buttonIdx = {this.state.selectedIndex}
             handleButton = {this.handleButtonSelection}
           />
-        
+          <Circles 
+            numCircles = {this.state.numCircles}
+            circleIdx = {this.state.selectedIndex}
+          />
         </main>
       </div>
     );
